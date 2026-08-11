@@ -35,7 +35,7 @@ public class Activity
             Thread.Sleep(1000);
             Console.Write("\b");
         }
-    }
+    } 
 
     public void Pause(int seconds)
     {
